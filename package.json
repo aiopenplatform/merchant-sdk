@@ -1,0 +1,25 @@
+{
+  "name": "aiopenplatform-merchant-sdk",
+  "version": "0.1.0",
+  "description": "This library interacts with the AI Open Platform for merchant.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aiopenplatform/merchant-sdk.git"
+  },
+  "keywords": [
+    "AIOpenPlatform"
+  ],
+  "author": "WebAdmin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aiopenplatform/merchant-sdk/issues"
+  },
+  "homepage": "https://github.com/aiopenplatform/merchant-sdk#readme",
+  "dependencies": {
+    "axios": "^1.7.9"
+  }
+}
